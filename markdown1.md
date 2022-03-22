@@ -111,7 +111,7 @@ print('Hello World Mr. Anderson')
 
 * [x] Task1
 * [x] Task2
-* [ ] Task3
+* [x] Task3
 * [ ] Task4
 
 
